@@ -1,0 +1,21 @@
+*Placeit: 
+-not free
+-transparent background.
+
+
+*Canva: 
+-Free
+-need another tool to make the background transparent
+_ how to use:
+	1. create a design
+	2. custom design : 4500 px / 5400 px
+	3. Text
+	4. Ungroup
+	5. Edit the text
+	6. put the design on the top of the photo
+	7. make little space from the left and the right and top and bottom in order to not cut off
+	8. Download PNG
+
+
+	9. Remove white background: pixlr.com/editor 
+	10. resize the picture by 4500 px 5400px if its not, using Bulkresizephotos.com
